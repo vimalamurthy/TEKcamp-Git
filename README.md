@@ -7,14 +7,13 @@ Exercise Steps/Instructions:
 
 2. Create a GitHub account
 
-## ********************************
 ## Git Instructions
 - [ ] Create a template copy of this repository by clicking : "Use this template"
 - [ ] Name the repository the same name as the master template repository.  
 - [ ] Add your TA as collaborator
 - [ ] Clone YOUR repo to your local computer
 - [ ] For this assignment, you will be following the instructions below:
-## ********************************
+
 
 * Copy the html file from the prework (Markup Exercise) and paste it in the new cloned folder.  (e.g. index.html)
 * Create a new file using the command line called notes.txt
